@@ -13,5 +13,5 @@ Subscribe to the Marvel Alliance:
 * [Spotify](https://open.spotify.com/show/5oviMNGcrB3C4uBna6i31n?si=oyuUu6VuRim5PwDgLS3lBg)
 * [RSS](https://www.spreaker.com/show/4914935/episodes/feed)
 
-<img src="/images/profilephoto.JPG" width="30%">
+<img src="/https://github.com/brentac/brentac.github.io/blob/62ea2f471919601a5a73e2965b96b92953dcf774/images/profilephoto.JPG" width="30%">
 
