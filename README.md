@@ -39,4 +39,4 @@
 
 <img src="https://raw.githubusercontent.com/brentac/brentac.github.io/main/images/marvelalliance.png" width="30%">
 
-<link href="brentacstylesheet.css" rel="stylesheet">
+<link href="/brentacstylesheet.css" rel="stylesheet">
