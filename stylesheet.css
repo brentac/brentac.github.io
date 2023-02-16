@@ -59,6 +59,12 @@ main {
 	
 }
 
+#podcast-picture {
+	border-radius: 0.25em;
+	height: 8.7em;
+	
+}
+
 #pronouns {
         color: #bebebe;
 }
