@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	padding: 2em;
 	font-family: 'Mint Grotesk', sans-serif;
-  	background: linear-gradient(#29993E, #296999);
+  	background: linear-gradient(teal, navy);
     	color: #fff;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
