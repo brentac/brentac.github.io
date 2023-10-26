@@ -1,7 +1,4 @@
-@import url('https://brentac.github.io/type/fontawesome/css/all.css');
-@import url('https://brentac.github.io/type/font-mint-grotesk-regular.css');
-@import url('https://brentac.github.io/type/font-mint-grotesk-bold.css');
-@import url('https://brentac.github.io/type/font-mint-grotesk-italic.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.css');
 
 * {
 	box-sizing: border-box;
